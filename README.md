@@ -1,3 +1,5 @@
+![Untitled](https://github.com/asifinsights/power-bi-sales-report/assets/161179927/ce55ec11-1085-4d52-801d-1816fc72d05e)
+
 Project Title: Sales Analysis with Power BI
 
 Description:
